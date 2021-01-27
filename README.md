@@ -1,9 +1,9 @@
 <p align="center">
-    <a href="https://github.com/UsergeTeam/Userge">
-        <img src="resources/userge.png" alt="Userge">
+    <a href="https://github.com/BlackStoneOfficial/UsergeBlack">
+        <img src="resources/userge.png" alt="UsergeBlack">
     </a>
     <br>
-    <b>Pluggable Telegram UserBot</b>
+    <b>Pluggable Telegram Userbot</b>
     <br>
     <a href="https://github.com/UsergeTeam/Userge#documentation-">Documentation</a>
     &nbsp•&nbsp
@@ -18,8 +18,7 @@
     <a href="https://github.com/UsergeTeam/Userge#copyright--license-">Copyright & License</a>
 </p>
 
-# Userge 🔥
-
+# UsergeBlack - most probably the best userbot based on TheUserge
 [![Build Status](https://travis-ci.com/UsergeTeam/Userge.svg?branch=alpha)](https://travis-ci.com/UsergeTeam/Userge)
 ![Python Version](https://img.shields.io/badge/python-3.8/3.9-lightgrey)
 ![Release](https://img.shields.io/github/v/release/UsergeTeam/Userge)
@@ -44,40 +43,8 @@
 
 > you can find full documentation [**here**](https://theuserge.github.io)
 
-## Inspiration 😇
-
-> This project is inspired by the following projects :)
-
-* [tg_userbot](https://github.com/watzon/tg_userbot) ( heavily ) 🤗
-* [PyroGramBot](https://github.com/SpEcHiDe/PyroGramBot)
-* [Telegram-Paperplane](https://github.com/RaphielGang/Telegram-Paperplane)
-* [UniBorg](https://github.com/SpEcHiDe/UniBorg)
-
-> Special Thanks to all of you !!!.
 
 ## How To Deploy 👷
 
 * [**With Heroku 🇭**](https://theuserge.github.io/deployment#deploying-with-heroku)  
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Usergeteam/Userge/tree/beta)
-
-* [**With Docker 🐳**](https://theuserge.github.io/deployment#deploying-with-docker-)
-
-* [**With Git, Python and pip 🔧**](https://theuserge.github.io/deployment#deploying-with-legacy-method)
-
-### Video Tutorial 🎥
-
-  [![Tutorial](resources/tutorial.jpg)](https://youtu.be/M4T_BJvFqkc "Tutorial")
-
-### Support & Discussions 👥
-
-> Head over to the [Discussion Group](https://t.me/usergeot) and [Update Channel](https://t.me/theUserge)
-
-### Project Credits 💆‍♂️
-
-* [Specially to these projects](https://github.com/UsergeTeam/Userge#inspiration-) 🥰
-* [Contributors](https://github.com/UsergeTeam/Userge/graphs/contributors) 👥
-
-### Copyright & License 👮
-
-* Copyright (C) 2020 by [UsergeTeam](https://github.com/UsergeTeam) ❤️️
-* Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/UsergeTeam/Userge/blob/master/LICENSE)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackStoneOfficial/UsergeBlack/tree/master)
